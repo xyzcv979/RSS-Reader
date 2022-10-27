@@ -10,7 +10,7 @@
 
 ### Description
 
-[Description of your app]
+This app aggregates all your favorite blogs and articles into just one app. There are alot of engineering blogs from different companies and people that I would like to read all in one location, my phone. What's different about this app is that I own it, so there are no ads. Also, I am caching the blogs into a database so I can still read them even with no cellular service, like in a subway. 
 
 ## Product Spec
 
