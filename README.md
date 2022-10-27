@@ -12,16 +12,6 @@
 
 [Description of your app]
 
-### App Evaluation
-
-[Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
-
 ## Product Spec
 
 ### 1. User Features (Required and Optional)
