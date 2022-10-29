@@ -55,9 +55,4 @@ This app aggregates all your favorite blogs and articles into just one app. Ther
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
+<img src="https://github.com/xyzcv979/RSS-Reader/blob/main/wireframe.png" width=600>
