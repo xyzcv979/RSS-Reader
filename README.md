@@ -18,36 +18,37 @@ This app aggregates all your favorite blogs and articles into just one app. Ther
 
 **Required Features**
 
-* [fill in your required user features here]
-* ...
+* Fetch articles via RSS
+* Display articles, description and images
 
 **Stretch Features**
 
-* [fill in your optional user features here]
-* ...
+* Cache results in database to allow offline mode
+* List the websites that is being fetched. Display as categories to pick from
+* delete button, refresh database cache
+* scroll down at top to refresh, update with new articles
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Stream
+  - Fetch list of articles
+- Detail
+  - Upon click, display article description/images
+- Settings
+  - clear db cache
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home feed
+* Categories
+* Settings
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
+- Home
+  - => NONE
 - [list second screen here]
   - [list screen navigation here]
   - ...
